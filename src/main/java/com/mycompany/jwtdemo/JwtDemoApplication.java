@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class JwtDemoApplication {
+	/* test */
 
 	public static void main(String[] args) {
 		SpringApplication.run(JwtDemoApplication.class, args);
